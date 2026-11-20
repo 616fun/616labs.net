@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://616labs.net/sitemap.xml
